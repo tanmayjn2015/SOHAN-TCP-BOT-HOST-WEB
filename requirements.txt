@@ -1,8 +1,7 @@
-flask
+Flask
 gunicorn
 requests
 httpx
-google
 protobuf
 pycryptodome
 psutil
@@ -13,4 +12,4 @@ pytz
 aiohttp
 cfonts
 flask-socketio
-eventlet
+simple-websocket
