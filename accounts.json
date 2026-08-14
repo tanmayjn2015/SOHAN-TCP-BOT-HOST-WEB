@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "494a715f7e9b4071aca61bac42ca858a309524e5864f0920030862a4ae7589be",
+    "role": "admin",
+    "email": ""
+  },
+  "SOHAN_YT": {
+    "password": "9cb232f2d405b8ae26357f26daa86dca115b05058f7ce950854a746ed2bd5371",
+    "role": "master",
+    "email": ""
+  }
+}
